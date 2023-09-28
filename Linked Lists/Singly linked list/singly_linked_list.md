@@ -1,4 +1,4 @@
-#singly linked list
+# Singly linked list
 
 A singly linked list is a linked list where traversal can be done in the forward direction only due to the linking of every node to the next node.
 
